@@ -1,2 +1,3 @@
-# kawai-todo
-Kawai todo built by react native 
+# Kawai To Do
+
+Kawai To Do built by React Native.
